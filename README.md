@@ -1,4 +1,5 @@
-# [Finals Lab Task 6 - MongoDBCRUD](https://github.com/user-attachments/files/20244038/pangilinan_MongoDB.Practice.Task.docx)
+[←𝗚𝗼 𝗕𝗮𝗰𝗸](https://dtx-byte.github.io/Dxt_EDMPortfolio/)
+# [Finals Lab Task 6 - MongoDBCRUD](https://github.com/Dtx-byte/Final-Lab-Task-6/raw/refs/heads/main/Assets/MongoDB%20Practice%20Task.docx)
 
 This task focuses on performing fundamental MongoDB operations such as creating a database, inserting documents, and executing find, update, search, and delete actions within a collection.
 
@@ -33,69 +34,71 @@ This task focuses on performing fundamental MongoDB operations such as creating 
 ## Queries
 
 ## Create Database
-![image](https://github.com/user-attachments/assets/b56c32d2-ad0c-4704-a811-fb05223afa46)
+![screenshot](Assets/1.png)
 
 ## Insert Documents
-![image](https://github.com/user-attachments/assets/e99acd48-dea8-4c0b-ac5f-1147d2e4be7a)
-![image](https://github.com/user-attachments/assets/cdf30409-f378-49b4-9c29-f4d725223c76)
-![image](https://github.com/user-attachments/assets/eec76cd8-508a-425f-8a30-927c0b73a549)
-![image](https://github.com/user-attachments/assets/1dd84f52-af1c-47b2-b1fa-c0ba1a25053f)
+![screenshot](Assets/2.png)
+![screenshot](Assets/3.png)
+![screenshot](Assets/4.png)
+![screenshot](Assets/5.png)
+![screenshot](Assets/6.png)
+![screenshot](Assets/7.png)
+![screenshot](Assets/8.png)
+![screenshot](Assets/9.png)
 
 ## get all documents
-![image](https://github.com/user-attachments/assets/a46973ab-d652-4e0f-a2e3-8fb656fd277e)
-![image](https://github.com/user-attachments/assets/5b6f52fe-ea80-4d63-b1be-96468e3ab664)
-![image](https://github.com/user-attachments/assets/bbe789d8-b7a4-4891-8268-61324133847f)
+![screenshot](Assets/10.png)
+![screenshot](Assets/11.png)
 
 ## get all documents with `writer` set to "Quentin Tarantino"
-![image](https://github.com/user-attachments/assets/70f2851f-e672-4ce5-b5ca-261fa7ee5853)
+![screenshot](Assets/12.png)
 
 ## get all documents where `actors` include "Brad Pitt"
-![image](https://github.com/user-attachments/assets/ef12a9b6-2eac-4319-a181-1572514a3488)
+![screenshot](Assets/13.png)
 
 ## get all documents with `franchise` set to "The Hobbit"
-![image](https://github.com/user-attachments/assets/e72ce0f9-8e8a-490c-b2c1-33848c7ae781)
+![screenshot](Assets/14.png)
 
 ## get all movies released in the 90s
-![image](https://github.com/user-attachments/assets/749a5512-cd0f-40ed-a02a-929c7f500aec)
+![screenshot](Assets/15.png)
 
 ## get all movies released before the year 2000 or after 2010
-![image](https://github.com/user-attachments/assets/7296b07e-ead9-410d-b7f8-ef03ec2f78aa)
+![screenshot](Assets/16.png)
 
 ## add a synopsis to "The Hobbit: An Unexpected Journey" 
-![image](https://github.com/user-attachments/assets/bd7ba3aa-5584-49ed-bac6-4a87b405545f)
-
+![screenshot](Assets/17.png)
+![screenshot](Assets/17.1.png)
 
 ## add a synopsis to "The Hobbit: The Desolation of Smaug" 
-![image](https://github.com/user-attachments/assets/e86e56e2-1ca1-4823-8423-8e78d740b79d)
-
+![screenshot](Assets/18.png)
+![screenshot](Assets/18.1.png)
 
 ## add an actor named "Samuel L. Jackson" to the movie "Pulp Fiction"
-![image](https://github.com/user-attachments/assets/a9d8caa9-46c3-462d-bf81-ef1c469a596e)
+![screenshot](Assets/19.png)
 
 
 ## find all movies that have a synopsis that contains the word "Bilbo"
-![image](https://github.com/user-attachments/assets/445865ba-36cf-407e-9abe-eb0f4acde048)
+![screenshot](Assets/20.png)
 
 
 ## find all movies that have a synopsis that contains the word "Gandalf"
-![image](https://github.com/user-attachments/assets/27e92f5a-5063-4255-ae00-d28977b10e27)
+![screenshot](Assets/21.png)
 
 
 ## find all movies that have a synopsis that contains the word "Bilbo" and not the word "Gandalf"
-![image](https://github.com/user-attachments/assets/79f28fb8-152a-41e4-a59d-f429f0bb0096)
+![screenshot](Assets/22.png)
 
 
 ## find all movies that have a synopsis that contains the word "dwarves" or "hobbit"
-![image](https://github.com/user-attachments/assets/bce60dcb-18bf-4666-8375-b1b3e2caed6e)
+![screenshot](Assets/23.png)
 
 
 ## find all movies that have a synopsis that contains the word "gold" and "dragon"
-![image](https://github.com/user-attachments/assets/735d2e46-2b78-4efe-9fb9-e1ca7247a84d)
+![screenshot](Assets/24.png)
 
 
 ## delete the movie "Pee Wee Herman's Big Adventure"
-![image](https://github.com/user-attachments/assets/05d4eb12-a82a-4c73-b28c-19b0c507b3d5)
-
+![screenshot](Assets/25.png)
 
 ## delete the movie "Avatar"
-![image](https://github.com/user-attachments/assets/c50bd760-6fd3-4749-b342-78c7021d1627)
+![screenshot](Assets/26.png)
